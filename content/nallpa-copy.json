@@ -1,0 +1,142 @@
+{
+  "company": {
+    "name": "Nallpa Group",
+    "short_name": "Nallpa",
+    "email": "[NEEDS COMPANY INPUT: correo institucional público]",
+    "phone": "[NEEDS COMPANY INPUT: teléfono comercial público]",
+    "location": "7311 NW 12th Street, Suite 20, Miami, FL 33126"
+  },
+  "seo": {
+    "title": "Nallpa Group | Suministro técnico para hidrocarburos",
+    "meta_description": "Nallpa Group integra química de especialidad, materiales y soluciones técnicas para operaciones petroleras en Venezuela, con trazabilidad y respaldo técnico.",
+    "og_title": "Nallpa Group | Tecnología para el pozo venezolano",
+    "og_description": "Química de especialidad, materiales y soluciones técnicas para hidrocarburos, respaldadas por fabricantes globales, trazabilidad y soporte técnico.",
+    "twitter_title": "Nallpa Group | Tecnología para el pozo venezolano",
+    "twitter_description": "Suministro técnico de química, materiales y soluciones para operaciones de hidrocarburos en Venezuela."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "pages": "Páginas",
+    "services": "Soluciones",
+    "process": "Proceso",
+    "testimonials": "Experiencias",
+    "news": "Actualidad",
+    "blog": "Artículos",
+    "contact_cta": "Hablar con el equipo",
+    "cart": "Carrito"
+  },
+  "cart": {
+    "title": "Tu carrito",
+    "empty_title": "No hay productos.",
+    "empty_description": "Este sitio no procesa compras en línea. Contacta a nuestro equipo para solicitudes comerciales.",
+    "shop_button": "Contactar"
+  },
+  "hero": {
+    "headline": "Tecnología global para el pozo venezolano",
+    "description": "Integramos química de especialidad, materiales y soluciones técnicas para hidrocarburos, con trazabilidad, continuidad de suministro y respaldo técnico.",
+    "primary_cta": "Hablar con el equipo",
+    "secondary_cta": "Explorar soluciones"
+  },
+  "partner_logos": {
+    "intro_text": "Representaciones y alianzas técnicas",
+    "partner_1_name": "CARBO® Ceramics",
+    "partner_2_name": "BASF® Oilfield Chemicals",
+    "partner_3_name": "Jebsen & Jessen",
+    "partner_4_name": "SKF"
+  },
+  "services": {
+    "section_number": "01",
+    "headline": "Soluciones para cada etapa del pozo",
+    "section_cta": "Ver soluciones",
+    "items": [
+      {"title":"Cementación","description":"Química de especialidad para control de pérdida de fluido, dispersión, migración de gas, retardación y acondicionamiento de lechadas.","cta":"Ver aplicación"},
+      {"title":"Perforación","description":"Aditivos para control de filtrado, viscosidad, estabilidad de lutitas y control microbiológico en sistemas de fluidos de perforación.","cta":"Ver aplicación"},
+      {"title":"Producción","description":"Especialidades para separación de agua y crudo, control de corrosión, parafinas, incrustaciones, H₂S e hidratos.","cta":"Ver aplicación"},
+      {"title":"Rehabilitación y estimulación","description":"Soluciones para limpieza, control de hierro, remoción de incrustaciones y acondicionamiento de pozos durante intervenciones de recuperación.","cta":"Ver aplicación"},
+      {"title":"Apuntalantes y gravel pack","description":"Apuntalantes cerámicos para fracturamiento hidráulico y empaque con grava, orientados a sostener conductividad y control de arena.","cta":"Ver materiales"},
+      {"title":"Confiabilidad mecánica","description":"Rodamientos y soluciones para la confiabilidad de activos rotativos mediante la representación y distribución de tecnología SKF.","cta":"Ver soluciones"}
+    ],
+    "bottom_primary_cta": "Hablar con el equipo",
+    "bottom_secondary_cta": "Conocer Nallpa"
+  },
+  "intro_content": {
+    "paragraph_1": "La continuidad operacional depende de tener el producto correcto, con especificación verificable y disponible cuando la operación lo requiere.",
+    "paragraph_2": "Nallpa conecta tecnología desarrollada para entornos exigentes con las necesidades técnicas, logísticas y regulatorias de la industria venezolana."
+  },
+  "about": {
+    "section_number": "02",
+    "headline": "Suministro técnico con respaldo",
+    "description": "Nallpa Group distribuye química de especialidad, materiales y maquinaria para hidrocarburos, agro y minería, con foco operativo en la industria petrolera venezolana.",
+    "primary_cta": "Conocer Nallpa",
+    "secondary_cta": "Hablar con el equipo"
+  },
+  "quality": {
+    "section_number": "03",
+    "headline": "Trazabilidad, cumplimiento y respaldo técnico",
+    "description": "Cada suministro se apoya en relaciones directas con fabricantes, cadena logística internacional, cumplimiento normativo y soporte de ingeniería y laboratorio.",
+    "stat_1": {"number":"4","label":"Etapas principales del pozo atendidas"},
+    "stat_2": {"number":"[NEEDS COMPANY INPUT: estadística operativa verificable]","label":"[NEEDS COMPANY INPUT: sugerido, entregas, disponibilidad, inventario, capacidad logística o indicador de continuidad]"},
+    "cta": "Conocer nuestro enfoque"
+  },
+  "newsletter": {
+    "headline": "Perspectiva técnica para la operación",
+    "description": "Recibe contenidos sobre aplicaciones, productos, integridad del pozo y tendencias relevantes para la industria.",
+    "email_placeholder": "Correo corporativo",
+    "success_message": "Gracias. Tu suscripción fue registrada.",
+    "error_message": "No pudimos registrar tu correo. Intenta nuevamente."
+  },
+  "process": {
+    "section_number": "05",
+    "headline": "Del requerimiento técnico a la operación",
+    "description": "Nuestro enfoque conecta la necesidad de campo con la solución técnica, el suministro y el respaldo requerido para su implementación.",
+    "steps": [
+      {"number":"01","title":"Definir requerimiento","description":"Identificamos la aplicación, las condiciones operativas y las especificaciones necesarias para orientar la solución."},
+      {"number":"02","title":"Coordinar suministro","description":"Gestionamos producto, documentación y logística dentro de una cadena de suministro trazable y conforme."},
+      {"number":"03","title":"Entregar con respaldo","description":"Acompañamos la entrega con documentación técnica y acceso al soporte de ingeniería y laboratorio correspondiente."}
+    ]
+  },
+  "testimonials": {
+    "section_number": "06",
+    "headline": "La experiencia del cliente",
+    "description": "Referencias de clientes y contrapartes operativas, publicadas únicamente con autorización previa.",
+    "items": [
+      {"headline":"[NEEDS CLIENT TESTIMONIAL]","quote":"[NEEDS CLIENT TESTIMONIAL]","attribution":"[NEEDS CLIENT ATTRIBUTION]"},
+      {"headline":"[NEEDS CLIENT TESTIMONIAL]","quote":"[NEEDS CLIENT TESTIMONIAL]","attribution":"[NEEDS CLIENT ATTRIBUTION]"},
+      {"headline":"[NEEDS CLIENT TESTIMONIAL]","quote":"[NEEDS CLIENT TESTIMONIAL]","attribution":"[NEEDS CLIENT ATTRIBUTION]"},
+      {"headline":"[NEEDS CLIENT TESTIMONIAL]","quote":"[NEEDS CLIENT TESTIMONIAL]","attribution":"[NEEDS CLIENT ATTRIBUTION]"}
+    ]
+  },
+  "news": {
+    "section_number": "07",
+    "headline": "Conocimiento aplicado al campo",
+    "section_cta": "Ver artículos",
+    "articles": [
+      {"category":"Educación técnica","date":"[DATE TBD]","headline":"Cómo la cementación protege la integridad del pozo","description":"Una introducción al aislamiento zonal, el control de pérdida de fluido y la migración de gas durante la cementación.","cta":"Leer artículo"},
+      {"category":"Aplicaciones","date":"[DATE TBD]","headline":"Apuntalantes cerámicos en estimulación y gravel pack","description":"Principios básicos de granulometría, conductividad y función del apuntalante en fracturamiento hidráulico y control de arena.","cta":"Leer artículo"}
+    ]
+  },
+  "final_cta": {"headline":"Conversemos sobre su próxima operación","primary_cta":"Hablar con el equipo","secondary_cta":"Explorar soluciones"},
+  "footer": {
+    "company_description":"Distribuidor y proveedor técnico de química de especialidad, materiales y soluciones para hidrocarburos, agro y minería.",
+    "main_pages_title":"Páginas principales",
+    "main_pages":{"home":"Inicio","about":"Nosotros","services":"Soluciones","blog":"Artículos","contact":"Contacto"},
+    "utility_pages_title":"Páginas auxiliares",
+    "utility_pages":{"style_guide":"Guía de estilo","start_here":"Comenzar","not_found":"404 no encontrado","licenses":"Licencias","changelog":"Cambios"},
+    "newsletter_headline":"Información técnica de Nallpa",
+    "newsletter_description":"Recibe contenidos sobre aplicaciones, productos y operación en la industria.",
+    "newsletter_success":"Gracias. Tu suscripción fue registrada.",
+    "newsletter_error":"No pudimos registrar tu correo. Intenta nuevamente.",
+    "email":"[NEEDS COMPANY INPUT: correo institucional público]",
+    "copyright":"© 2026 Nallpa Group. Todos los derechos reservados."
+  },
+  "accessibility": {
+    "hero_image_alt":"[NEEDS COMPANY INPUT: describir la imagen final del hero para texto alternativo accesible]",
+    "about_main_image_alt":"[NEEDS COMPANY INPUT: describir la imagen principal final de la sección Nosotros]",
+    "about_secondary_image_alt":"[NEEDS COMPANY INPUT: describir la imagen secundaria final de la sección Nosotros]",
+    "quality_image_alt":"[NEEDS COMPANY INPUT: describir la imagen final de la sección de trazabilidad y respaldo]",
+    "process_image_alt":"[NEEDS COMPANY INPUT: describir la imagen final de la sección de proceso]",
+    "article_1_image_alt":"[NEEDS COMPANY INPUT: describir la imagen final del artículo sobre cementación]",
+    "article_2_image_alt":"[NEEDS COMPANY INPUT: describir la imagen final del artículo sobre apuntalantes cerámicos]"
+  }
+}
